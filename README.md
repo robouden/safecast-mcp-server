@@ -17,6 +17,7 @@ Currently includes a simple `ping → pong` tool to validate MCP wiring.
 git clone https://github.com/van-van-nguyen/safecast-mcp-server.git
 cd safecast-mcp-server
 go run cmd/mcp-server/main.go
+```
 
 You should see:
 Starting MCP SSE server on :3333
