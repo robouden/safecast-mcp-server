@@ -1,0 +1,9 @@
+# Go build artifacts
+/bin/
+/pkg/
+
+# Editor
+.vscode/
+
+# OS
+.DS_Store
